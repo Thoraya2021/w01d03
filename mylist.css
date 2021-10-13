@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(166, 211, 98);
+
+}
+
+.container {
+    background-color:white;
+    width: 80%;
+   height: 500 ;
+  border: 1px solid black;
+  padding: 30px;
+  margin: 30px;
+
+  }
+h1{
+color:black;
+
+
+}
+label {
+color: gray;
+}
+.btn1 {
+
+    background-color: brown;
+}
+.btn2 {
+    background-color: burlywood;
+}
+.btn3
+{
+    background-color: chocolate;
+}
