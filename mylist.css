@@ -1,5 +1,4 @@
 body{
-    
     background-color: rgb(166, 211, 98);
 
 }
@@ -23,12 +22,12 @@ color: gray;
 }
 .btn1 {
 
-    background-color: brown;
+    background-color: rgb(73, 73, 219);
 }
 .btn2 {
-    background-color: burlywood;
+    background-color: maroon;
 }
 .btn3
 {
-    background-color: chocolate;
+    background-color: green;
 }
